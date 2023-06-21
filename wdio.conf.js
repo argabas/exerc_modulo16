@@ -92,6 +92,7 @@ export const config = {
     // gets prepended directly.
     baseUrl: 'http://localhost',
     port: 4723,
+    path: '/wd/hub',
     //
     // Default timeout for all waitFor* commands.
     waitforTimeout: 10000,
